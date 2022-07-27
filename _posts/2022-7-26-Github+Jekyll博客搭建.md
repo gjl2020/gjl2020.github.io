@@ -4,7 +4,6 @@ categories: [环境配置]
 tags: [博客搭建]     # TAG names should always be lowercase
 ---
 
-# Github + Jekyll 实现博客搭建
 
 ## 一、准备阶段
 ### 1.注册Github账号
@@ -88,11 +87,12 @@ fork 该模板，并将项目命名为
 
 GH_USERNAME 为Github用户名
 
-然后使用Github桌面版将 <GH_USERNAME>.github.io 克隆到本地仓库
+
+然后使用Github桌面版将 <GH_USERNAME>.github.io 克隆到本地仓库 
 
 ### 2.博客本地环境搭建
 
-在本地仓库目录中打开gitbash
+在本地仓库目录中打开gitbash 
 
 ![gitbash1](/assets/img/2022-7-26/5.png)
 
@@ -112,6 +112,7 @@ bundle
 ``
 
 安装依赖。注意，bundle执行的时间很长，会很久没有反应，耐心等待。如果bundle命令执行到
+
 ![bundle1](/assets/img/2022-7-26/8.png)
 
 无反应，可尝试按回车。最终成功安装结果如下：
