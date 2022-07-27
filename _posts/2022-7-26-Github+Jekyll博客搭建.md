@@ -82,7 +82,7 @@ chirpy是一个Jekyll模板
 fork 该模板，并将项目命名为 
 
 ``
-<GH_USERNAME>.github.io
+< GH_USERNAME >.github.io
 ``
 
 GH_USERNAME 为Github用户名
